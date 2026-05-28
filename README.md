@@ -28,6 +28,6 @@ HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub
 ### 📫 Connect With Me
 
 * 🌐 Portfolio: https://my-portfolio-website-indol-two.vercel.app/
-* 💼 GitHub: github.com/mazharuldmweb
+* 💼 GitHub: https://github.com/mazharuldmweb
 
  Learning today, building tomorrow.
