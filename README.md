@@ -21,13 +21,13 @@
 
 ### 🧰 Technologies & Tools
 
-HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React • Git • GitHub
+HTML • CSS • JavaScript • React • Tailwind CSS • Git • GitHub
 
 ---
 
 ### 📫 Connect With Me
 
 * 🌐 Portfolio: https://my-portfolio-website-indol-two.vercel.app/
-* 💼 GitHub: https://github.com/mazharuldmweb
+* 💼 GitHub: github.com/mazharuldmweb
 
-> “Learning today, building tomorrow.”
+ Learning today, building tomorrow.
