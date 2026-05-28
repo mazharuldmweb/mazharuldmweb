@@ -6,7 +6,7 @@
 🚀 Currently learning Full Stack Development at Creative IT Institute.
 🎯 Focused on Frontend Development & Modern UI Design.
 📚 HSC Candidate 2026 | Age: 19
-🌱 Exploring React, JavaScript, Tailwind CSS & Backend Technologies.
+🌱 Exploring React, JavaScript, Bootstrap, Tailwind CSS & Backend Technologies.
 
 ---
 
