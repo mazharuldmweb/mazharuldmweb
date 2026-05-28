@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f2d55ec5-95e4-484f-8e84-b5e1eae74311" />" alt="Mazharul Islam Banner" width="100%">
+</p>
 # 👋 Hi, I'm Mazharul Islam
 
 ### Front-End Developer | Aspiring Full Stack Developer
